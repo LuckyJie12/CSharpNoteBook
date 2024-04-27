@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\Desktop\\C#\\CSharpNoteBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D392DA69-70BE-4783-AEA0-128E1CB6F314}|13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCTest.csproj|d:\\desktop\\c#\\csharpnotebook\\13.ioc\u4F9D\u8D56\u6CE8\u5165\\ioctest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D392DA69-70BE-4783-AEA0-128E1CB6F314}|13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCTest.csproj|solutionrelative:13.ioc\u4F9D\u8D56\u6CE8\u5165\\ioctest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF45DB1D-9B19-47AD-AA73-129EE3C1C72A}|14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\ReadAppConfig.csproj|d:\\desktop\\c#\\csharpnotebook\\14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\readappconfig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF45DB1D-9B19-47AD-AA73-129EE3C1C72A}|14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\ReadAppConfig.csproj|solutionrelative:14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\readappconfig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D392DA69-70BE-4783-AEA0-128E1CB6F314}|13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCTest.csproj|d:\\desktop\\c#\\csharpnotebook\\13.ioc\u4F9D\u8D56\u6CE8\u5165\\ioctest\\iocservice\\vwcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D392DA69-70BE-4783-AEA0-128E1CB6F314}|13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCTest.csproj|solutionrelative:13.ioc\u4F9D\u8D56\u6CE8\u5165\\ioctest\\iocservice\\vwcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF45DB1D-9B19-47AD-AA73-129EE3C1C72A}|14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\ReadAppConfig.csproj|D:\\Desktop\\C#\\CSharpNoteBook\\14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\readappconfig\\appsetting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF45DB1D-9B19-47AD-AA73-129EE3C1C72A}|14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\ReadAppConfig.csproj|solutionrelative:14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\readappconfig\\appsetting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D392DA69-70BE-4783-AEA0-128E1CB6F314}|13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCTest.csproj|d:\\desktop\\c#\\csharpnotebook\\13.ioc\u4F9D\u8D56\u6CE8\u5165\\ioctest\\iocinterface\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D392DA69-70BE-4783-AEA0-128E1CB6F314}|13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCTest.csproj|solutionrelative:13.ioc\u4F9D\u8D56\u6CE8\u5165\\ioctest\\iocinterface\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF45DB1D-9B19-47AD-AA73-129EE3C1C72A}|14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\ReadAppConfig.csproj|D:\\Desktop\\C#\\CSharpNoteBook\\14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\readappconfig\\sectionconfig\\usersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF45DB1D-9B19-47AD-AA73-129EE3C1C72A}|14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\ReadAppConfig.csproj|solutionrelative:14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\readappconfig\\sectionconfig\\usersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D392DA69-70BE-4783-AEA0-128E1CB6F314}|13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCTest.csproj|d:\\desktop\\c#\\csharpnotebook\\13.ioc\u4F9D\u8D56\u6CE8\u5165\\ioctest\\iocinterface\\abstractphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D392DA69-70BE-4783-AEA0-128E1CB6F314}|13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCTest.csproj|solutionrelative:13.ioc\u4F9D\u8D56\u6CE8\u5165\\ioctest\\iocinterface\\abstractphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F100398-AF63-48CC-B30F-4439FBD3785E}|HomeWork\\Homework2\\Homework2.csproj|D:\\Desktop\\C#\\CSharpNoteBook\\homework\\homework2\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F100398-AF63-48CC-B30F-4439FBD3785E}|HomeWork\\Homework2\\Homework2.csproj|solutionrelative:homework\\homework2\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D392DA69-70BE-4783-AEA0-128E1CB6F314}|13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCTest.csproj|d:\\desktop\\c#\\csharpnotebook\\13.ioc\u4F9D\u8D56\u6CE8\u5165\\ioctest\\iocservice\\applephone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D392DA69-70BE-4783-AEA0-128E1CB6F314}|13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCTest.csproj|solutionrelative:13.ioc\u4F9D\u8D56\u6CE8\u5165\\ioctest\\iocservice\\applephone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF45DB1D-9B19-47AD-AA73-129EE3C1C72A}|14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\ReadAppConfig.csproj|D:\\Desktop\\C#\\CSharpNoteBook\\14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\readappconfig\\appsetting\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF45DB1D-9B19-47AD-AA73-129EE3C1C72A}|14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\ReadAppConfig.csproj|solutionrelative:14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\readappconfig\\appsetting\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D392DA69-70BE-4783-AEA0-128E1CB6F314}|13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCTest.csproj|d:\\desktop\\c#\\csharpnotebook\\13.ioc\u4F9D\u8D56\u6CE8\u5165\\ioctest\\factorycreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D392DA69-70BE-4783-AEA0-128E1CB6F314}|13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCTest.csproj|solutionrelative:13.ioc\u4F9D\u8D56\u6CE8\u5165\\ioctest\\factorycreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF45DB1D-9B19-47AD-AA73-129EE3C1C72A}|14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\ReadAppConfig.csproj|D:\\Desktop\\C#\\CSharpNoteBook\\14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\readappconfig\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DF45DB1D-9B19-47AD-AA73-129EE3C1C72A}|14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\ReadAppConfig.csproj|solutionrelative:14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\readappconfig\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,80 +38,75 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VWCar.cs",
-              "DocumentMoniker": "D:\\Desktop\\C#\\CSharpNoteBook\\13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCService\\VWCar.cs",
-              "RelativeDocumentMoniker": "13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCService\\VWCar.cs",
-              "ToolTip": "D:\\Desktop\\C#\\CSharpNoteBook\\13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCService\\VWCar.cs",
-              "RelativeToolTip": "13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCService\\VWCar.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T16:07:00.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ICar.cs",
-              "DocumentMoniker": "D:\\Desktop\\C#\\CSharpNoteBook\\13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCInterface\\ICar.cs",
-              "RelativeDocumentMoniker": "13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCInterface\\ICar.cs",
-              "ToolTip": "D:\\Desktop\\C#\\CSharpNoteBook\\13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCInterface\\ICar.cs",
-              "RelativeToolTip": "13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCInterface\\ICar.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxkAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T16:06:55.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ApplePhone.cs",
-              "DocumentMoniker": "D:\\Desktop\\C#\\CSharpNoteBook\\13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCService\\ApplePhone.cs",
-              "RelativeDocumentMoniker": "13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCService\\ApplePhone.cs",
-              "ToolTip": "D:\\Desktop\\C#\\CSharpNoteBook\\13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCService\\ApplePhone.cs",
-              "RelativeToolTip": "13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCService\\ApplePhone.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAA/AAAA",
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "D:\\Desktop\\C#\\CSharpNoteBook\\14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\AppSetting\\AppSettings.cs",
+              "RelativeDocumentMoniker": "14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\AppSetting\\AppSettings.cs",
+              "ToolTip": "D:\\Desktop\\C#\\CSharpNoteBook\\14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\AppSetting\\AppSettings.cs",
+              "RelativeToolTip": "14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\AppSetting\\AppSettings.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAA8wDwAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T16:05:16.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T06:54:25.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Desktop\\C#\\CSharpNoteBook\\14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\AppSetting\\appsettings.json",
+              "RelativeDocumentMoniker": "14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\AppSetting\\appsettings.json",
+              "ToolTip": "D:\\Desktop\\C#\\CSharpNoteBook\\14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\AppSetting\\appsettings.json",
+              "RelativeToolTip": "14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\AppSetting\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-27T06:48:21.617Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AbstractPhone.cs",
-              "DocumentMoniker": "D:\\Desktop\\C#\\CSharpNoteBook\\13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCInterface\\AbstractPhone.cs",
-              "RelativeDocumentMoniker": "13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCInterface\\AbstractPhone.cs",
-              "ToolTip": "D:\\Desktop\\C#\\CSharpNoteBook\\13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCInterface\\AbstractPhone.cs",
-              "RelativeToolTip": "13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\IOCInterface\\AbstractPhone.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAoAAAA",
+              "Title": "JSONHelper.cs",
+              "DocumentMoniker": "D:\\Desktop\\C#\\CSharpNoteBook\\HomeWork\\Homework2\\JSONHelper.cs",
+              "RelativeDocumentMoniker": "HomeWork\\Homework2\\JSONHelper.cs",
+              "ToolTip": "D:\\Desktop\\C#\\CSharpNoteBook\\HomeWork\\Homework2\\JSONHelper.cs",
+              "RelativeToolTip": "HomeWork\\Homework2\\JSONHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T16:04:57.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T06:49:56.198Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "FactoryCreate.cs",
-              "DocumentMoniker": "D:\\Desktop\\C#\\CSharpNoteBook\\13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\FactoryCreate.cs",
-              "RelativeDocumentMoniker": "13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\FactoryCreate.cs",
-              "ToolTip": "D:\\Desktop\\C#\\CSharpNoteBook\\13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\FactoryCreate.cs",
-              "RelativeToolTip": "13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\FactoryCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Desktop\\C#\\CSharpNoteBook\\14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\App.config",
+              "RelativeDocumentMoniker": "14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\App.config",
+              "ToolTip": "D:\\Desktop\\C#\\CSharpNoteBook\\14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\App.config",
+              "RelativeToolTip": "14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-27T06:45:37.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserSettings.cs",
+              "DocumentMoniker": "D:\\Desktop\\C#\\CSharpNoteBook\\14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\SectionConfig\\UserSettings.cs",
+              "RelativeDocumentMoniker": "14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\SectionConfig\\UserSettings.cs",
+              "ToolTip": "D:\\Desktop\\C#\\CSharpNoteBook\\14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\SectionConfig\\UserSettings.cs",
+              "RelativeToolTip": "14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\SectionConfig\\UserSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T16:03:26.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T06:43:46.691Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Desktop\\C#\\CSharpNoteBook\\13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\Program.cs",
-              "RelativeDocumentMoniker": "13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\Program.cs",
-              "ToolTip": "D:\\Desktop\\C#\\CSharpNoteBook\\13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\Program.cs*",
-              "RelativeToolTip": "13.IOC\u4F9D\u8D56\u6CE8\u5165\\IOCTest\\Program.cs*",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAmwE4AAAAAAAAA",
+              "DocumentMoniker": "D:\\Desktop\\C#\\CSharpNoteBook\\14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\Program.cs",
+              "RelativeDocumentMoniker": "14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\Program.cs",
+              "ToolTip": "D:\\Desktop\\C#\\CSharpNoteBook\\14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\Program.cs",
+              "RelativeToolTip": "14.\u8BFB\u53D6\u914D\u7F6E\u6587\u4EF6\\ReadAppConfig\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACcAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T16:03:15.712Z",
+              "WhenOpened": "2024-04-27T06:43:10.789Z",
               "EditorCaption": ""
             }
           ]

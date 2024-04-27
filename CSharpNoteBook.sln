@@ -70,6 +70,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework1", "HomeWork\Homew
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework2", "HomeWork\Homework2\Homework2.csproj", "{3F100398-AF63-48CC-B30F-4439FBD3785E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "14.读取配置文件", "14.读取配置文件", "{511AA91D-AC79-43F6-AAE6-8F6C4B4AE278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadAppConfig", "14.读取配置文件\ReadAppConfig\ReadAppConfig.csproj", "{DF45DB1D-9B19-47AD-AA73-129EE3C1C72A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -148,6 +152,10 @@ Global
 		{3F100398-AF63-48CC-B30F-4439FBD3785E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F100398-AF63-48CC-B30F-4439FBD3785E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F100398-AF63-48CC-B30F-4439FBD3785E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF45DB1D-9B19-47AD-AA73-129EE3C1C72A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF45DB1D-9B19-47AD-AA73-129EE3C1C72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF45DB1D-9B19-47AD-AA73-129EE3C1C72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF45DB1D-9B19-47AD-AA73-129EE3C1C72A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -171,6 +179,7 @@ Global
 		{D392DA69-70BE-4783-AEA0-128E1CB6F314} = {80FF08E0-6CD8-4893-A2E3-19C7C53EF8C1}
 		{9427376A-7656-4EA0-B8C9-B1E5D7DCB9B1} = {D8B94322-3023-4131-861A-CBE93EE69933}
 		{3F100398-AF63-48CC-B30F-4439FBD3785E} = {D8B94322-3023-4131-861A-CBE93EE69933}
+		{DF45DB1D-9B19-47AD-AA73-129EE3C1C72A} = {511AA91D-AC79-43F6-AAE6-8F6C4B4AE278}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CA3A37D2-D2E9-4CCB-A3DB-95AAC70AC40B}
