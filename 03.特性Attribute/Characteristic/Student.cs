@@ -16,7 +16,7 @@ namespace TexingAttribute
     }
     public static class Stu
     {
-        public static bool ValueIsok(this object Obj)
+        public static bool ValueIsok(this Student Obj)
         {
             Type type = Obj.GetType();
             foreach (var t in type.GetProperties())
