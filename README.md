@@ -1771,3 +1771,26 @@ class Program
 
 另外，请注意，在上面的代码中，我们假设了`QueryableDataSource`类内部有一个产品列表作为数据源，并且实现了一个简单的`QueryProvider`类来模拟查询的执行。在实际应用中，这些数据通常来自数据库或其他外部数据源，并且查询提供程序会更加复杂。在这个例子中，我们只是简单地调用了内部列表的`AsQueryable()`方法来利用LINQ to Objects的功能。
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hello Edit
