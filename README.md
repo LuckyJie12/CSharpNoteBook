@@ -1773,22 +1773,4 @@ class Program
 
 # 11. AutoMapper
 
-<<<<<<< .mine
 
-HelloHelloHelloHelloHello   
-
-HelloHelloHelloHelloHello   
-
-HelloHelloHelloHelloHello   
-
-HelloHelloHelloHelloHello   
-=======
-dvdfbfbdfbgdfbfdb
-
-
-
-
-
-
-
->>>>>>> .theirs
