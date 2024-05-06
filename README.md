@@ -1773,10 +1773,22 @@ class Program
 
 # 11. AutoMapper
 
-HelloHelloHelloHelloHello   
+<<<<<<< .mine
 
 HelloHelloHelloHelloHello   
 
 HelloHelloHelloHelloHello   
 
 HelloHelloHelloHelloHello   
+
+HelloHelloHelloHelloHello   
+=======
+dvdfbfbdfbgdfbfdb
+
+
+
+
+
+
+
+>>>>>>> .theirs
